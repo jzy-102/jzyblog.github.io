@@ -15,7 +15,11 @@ permalink: /about/
 坚信熟能生巧，努力改变人生。
 
 ## 联系
+GitHub:jzy-102
+email:3091987996@qq.com
+tel:18110785273
 
+疑难解答
 <ul>
 {% for website in site.data.social %}
 <li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
